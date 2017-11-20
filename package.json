@@ -4,14 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "md5": "^2.2.1"
-  },
-  "scripts": {
-	"start": "node ./index.js"
+    "js-sha256": "^0.8.0"
   }
 }
